@@ -10,7 +10,7 @@ You need a terminal.
 
 * Mac: just open Terminal.
 * Linux: same, open your terminal.
-* Windows: install WSL Ubuntu and open it. From PowerShell:
+* Windows: install WSL Ubuntu and open it. (See [Module 1](https://github.com/QLS-MiCM/Introduction-to-RNA-seq/tree/main)) 
 
 * For our exercises, we will be following the steps on a browser (HTML) or in RStudio (QMD), so please have access to at least one.
    
